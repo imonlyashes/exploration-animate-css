@@ -1,0 +1,19 @@
+{
+  "name": "agu_tl-02_ducharme-catherine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel ./src/index.html"
+  },
+  "keywords": [],
+  "author": "Catherine Ducharme",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "wowjs": "^1.1.3"
+  }
+}
